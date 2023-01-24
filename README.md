@@ -2,9 +2,7 @@
 
 ## I'm Fullstack Developer at iTechArt
 
-latest commit
-
-## Languages and technologies
+### Languages and technologies
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![Nest](https://img.shields.io/badge/-Nest-090909?style=for-the-badge&logo=nestjs)
 ![Postgres](https://img.shields.io/badge/-PostgresQl-090909?style=for-the-badge&logo=postgresql)
@@ -18,4 +16,14 @@ latest commit
 ![Scss](https://img.shields.io/badge/-scss-090909?style=for-the-badge&logo=sass)
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 
-social
+### Follow me
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/primky/)
+[![Vk](https://img.shields.io/badge/-vk-090909?style=for-the-badge&logo=vk)](https://vk.com/tirtt)
+
+### Contact with me
+[![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:valentin.full.dev@gmail.com)
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://RedYard.t.me)
+
+
+[![PrimkY's GitHub stats](https://github-readme-stats.vercel.app/api?username=primky&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![PrimkY's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrimkY)](https://github.com/anuraghazra/github-readme-stats)
