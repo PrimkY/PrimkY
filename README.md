@@ -1,6 +1,4 @@
-![Header](https://github.com/PrimkY/PrimkY/blob/main/assets/header.PNG)
-
-## I'm Fullstack Developer at iTechArt
+## Hello there. My name is Valentin. I'm Fullstack Developer at iTechArt
 
 ### Languages and technologies
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
@@ -26,4 +24,3 @@
 
 
 ![PrimkY's GitHub stats](https://github-readme-stats.vercel.app/api?username=primky&show_icons=true&theme=radical&count_private=true)
-![PrimkY's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrimkY)
