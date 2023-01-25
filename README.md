@@ -24,3 +24,4 @@
 
 
 ![PrimkY's GitHub stats](https://github-readme-stats.vercel.app/api?username=primky&show_icons=true&theme=radical&count_private=true)
+[![PrimkY's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PrimkY)](https://github.com/anuraghazra/github-readme-stats)
