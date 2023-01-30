@@ -1,4 +1,4 @@
-## Hello there. My name is Valentin. I'm Fullstack Developer at iTechArt
+## Hello there. My name is Valentin. I'm Fullstack Developer
 
 ### Languages and technologies
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
