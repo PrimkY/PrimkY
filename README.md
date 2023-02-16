@@ -4,7 +4,7 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![Nest](https://img.shields.io/badge/-Nest-090909?style=for-the-badge&logo=nestjs)
 ![Postgres](https://img.shields.io/badge/-PostgresQl-090909?style=for-the-badge&logo=postgresql)
-![JavaScript](https://img.shields.io/badge/-javasript-090909?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
 ![Axios](https://img.shields.io/badge/-axios-090909?style=for-the-badge&logo=axios)
