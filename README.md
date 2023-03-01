@@ -23,7 +23,7 @@
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://RedYard.t.me)
 
 
-![PrimkY's GitHub stats](https://github-readme-stats.vercel.app/api?username=primky&show_icons=true&theme=radical&count_private=true)
+![PrimkY's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=primky&show_icons=true&theme=radical&count_private=true)
 
   <a align="center" href="https://github.com/PrimkY">
      <img align="center" style="background: transparent;" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=primky&show_icons=true&hide_border=true&theme=radical&layout=compact" />
